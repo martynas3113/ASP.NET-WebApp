@@ -1,5 +1,5 @@
 # JokesWebApp
-Simple ASP.NET Core web application
+Simple ASP.NET Core MVC Web application
 
 <b>Features : </b>
 - Register/Login
