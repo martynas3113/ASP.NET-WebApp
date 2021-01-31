@@ -1,5 +1,5 @@
 # JokesWebApp
-Simple .NET web app using .NET Razor Pages
+Simple ASP.NET Core web application
 
 <b>Features : </b>
 - Register/Login
